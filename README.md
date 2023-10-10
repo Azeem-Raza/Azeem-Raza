@@ -25,4 +25,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=azeem-raza&" alt="azeem-raza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeem-raza&show_icons=true&locale=en" alt="azeem-raza" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=azeem-raza&show_icons=true&locale=en" alt="azeem-raza" /></p>
